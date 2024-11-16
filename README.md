@@ -6,9 +6,17 @@
 📚 #learningcoding in my digital journey
 
 ### 📊 My GitHub Stats
-![Dimitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitriMumladze&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DimitriMumladze&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriMumladze&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DimitriMumladze&show_icons=true&theme=radical" width="400" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitriMumladze&theme=radical" width="400" height="180" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriMumladze&layout=compact&theme=radical" width="400" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
+</div>
 
 ### 🛠 Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
