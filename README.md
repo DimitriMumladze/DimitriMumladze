@@ -14,10 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriMumladze&layout=compact&theme=radical" width="400" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
-</div>
-
 ### 🛠 Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
