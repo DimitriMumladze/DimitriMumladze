@@ -14,7 +14,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🌱 Currently Learning
-
 - 🚀 Advanced API Development
 - 🛠️ Entity Framework Core
 - 🔒 JWT Authentication & Authorization
