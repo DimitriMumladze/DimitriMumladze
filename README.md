@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dimitri !
+# 👋 Hi, I'm Dimitri 
 🧑‍💻 Software Engineer specializing in back-end development and API solutions
 🎓 Studying Computer Science at Black Sea International University, Georgia
 💻 Currently focused on .NET technologies and web development
